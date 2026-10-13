@@ -1,0 +1,9 @@
+# 敏感信息：真实 Token / 密钥一律不入库
+mcp.json
+.env
+*.token
+*.key
+
+# 系统
+.DS_Store
+Thumbs.db
